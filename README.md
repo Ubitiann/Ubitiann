@@ -13,7 +13,7 @@
 - Committed to excellence in project delivery, ensuring code quality, performance, security compliance, and adherence to best practices.
 
 <h3 align="center"> 
-C# || .MVC || Entity Framework Core || SiteCore || Umbraco || ReactNative ||  Android || Kotlin || React
+C# || .MVC || Entity Framework Core || Sitecore || Umbraco || React Native ||  Android || Kotlin || React
 </h3>
 
 <div align="center">
