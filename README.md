@@ -8,7 +8,7 @@
 
 - Worked on diverse apps spanning healthcare, tourism, communication, and education sectors.
 
-- Full-stack development in DotNet, project management with Agendeas Solution, and experienced in various technologies including React Native, SiteCore, Umbraco, DotNet, MVC, DotNet Core, Kotlin, Android, and React.
+- Full-stack development in DotNet, project management with Agendeas Solution, and experienced in various technologies including React Native, Sitecore, Umbraco, DotNet, MVC, DotNet Core, Kotlin, Android, and React.
 
 - Committed to excellence in project delivery, ensuring code quality, performance, security compliance, and adherence to best practices.
 
