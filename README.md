@@ -6,8 +6,6 @@
 
 <h2>💼 Experience </h2>
 
-- Three years of experience in Android native development (Java/Kotlin) and proficient in React Native development.
-
 - Worked on diverse apps spanning healthcare, tourism, communication, and education sectors.
 
 - Full-stack development in DotNet, project management with Agendeas Solution, and experienced in various technologies including React Native, SiteCore, Umbraco, DotNet, MVC, DotNet Core, Kotlin, Android, and React.
